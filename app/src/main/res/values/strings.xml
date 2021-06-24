@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Loading Truck Service App</string>
-    <string name="app_short_desc"></string>
+    <string name="app_short_desc">Carry luggage with care</string>
+    <string name="description">
+        Sometimes it can become very difficult for a person to look up for affordable pickup or truck loading service. When a person is moving his furniture to a different place, he needs a loading service which is suitable and helps that person in moving his furniture. This app will enable the user to search for appropriate service near their location to save their time and money.
+    </string>
+    <string name="tag_line">Easiest and most Reliable App for finding luggage carrier vehicles.</string>
 </resources>
